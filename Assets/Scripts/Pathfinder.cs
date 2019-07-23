@@ -12,7 +12,6 @@ public class Pathfinder : MonoBehaviour {
     public Transform testB;
     public bool showNodes;
     public bool showTestPath;
-    public LineRenderer testPathLine;
     List<Vector3> testPath;
 
     Grid[] grids;
